@@ -1,5 +1,5 @@
 # DS
-📦 Análisis 360 del Ciclo de Vida del Cliente B2B en E-commerce (Veeqo - Amazon)
+📦 Análisis 360 del Ciclo de Vida del Cliente B2B en E-commerce (Veeqo - Amazon) (link del dataset: https://docs.google.com/spreadsheets/d/1lh5AACg42dKT8NWyR-Gi_pV9rPNqdMEFqniMVNA4jRw/edit?gid=573541234#gid=573541234)
 📖 Abstracto y Objetivo del Proyecto
 Este proyecto analiza un dataset transaccional y operativo de 84,063 registros de empresas que utilizan Veeqo, una plataforma de gestión de inventarios y envíos perteneciente a Amazon.
 
